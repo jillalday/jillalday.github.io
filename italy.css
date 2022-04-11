@@ -1,0 +1,12 @@
+
+.italybody{
+    background-image: url(img/italy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.arrival{
+    text-align: center;
+    color:green;
+    background-color: white;
+}
