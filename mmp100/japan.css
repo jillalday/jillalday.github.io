@@ -1,0 +1,10 @@
+.japanbody{
+        background-image: url(img/japan.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+.japanarrival{
+        text-align: center;
+        color:red;
+        background-color: white;
+}
