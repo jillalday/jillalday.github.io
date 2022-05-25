@@ -1,0 +1,24 @@
+.firstvid{
+    position:absolute;
+    z-index:-1;
+    top:0;
+    left:0;
+    width:100%; 
+    height:100vh;
+}
+
+.facing{
+text-align: center;
+font-size: xx-large;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body{ 
+    background-color: aqua;
+}
+
+.text{
+    text-align: center;
+
+    font-style: italic;
+}
